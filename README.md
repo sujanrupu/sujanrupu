@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujan-ghosh-95411b241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujan-ghosh-95411b241" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/sujan-ghosh-95411b241](https://www.linkedin.com/in/sujan-ghosh-95411b241)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujan-ghosh-95411b241" height="30" width="40" /></a>
 <a href="https://kaggle.com/a60sujanghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="a60sujanghosh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sujanrupu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sujanrupu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sujanrupu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujanrupu" height="30" width="40" /></a>
