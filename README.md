@@ -1,3 +1,6 @@
+![68747470733a2f2f6e6577732e6d6963726f736f66742e636f6d2f77702d636f6e74656e742f75706c6f6164732f70726f642f323031362f31322f61692d72657669736564322e676966](https://user-images.githubusercontent.com/103595490/217515995-665ebd0f-a851-44be-a65f-b31ab5f5657d.gif)
+
+
 <h1 align="center">Hi 👋, I'm Sujan Ghosh</h1>
 <h3 align="center">A passionate developer</h3>
 
