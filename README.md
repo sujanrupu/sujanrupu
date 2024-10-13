@@ -1,4 +1,4 @@
-![68747470733a2f2f6e6577732e6d6963726f736f66742e636f6d2f77702d636f6e74656e742f75706c6f6164732f70726f642f323031362f31322f61692d72657669736564322e676966](https://user-images.githubusercontent.com/103595490/217515995-665ebd0f-a851-44be-a65f-b31ab5f5657d.gif)
+[![An image of @sujanrupu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujanrupu)](https://holopin.io/@sujanrupu)
 
 
 <h1 align="center">Hi 👋, I'm Sujan Ghosh</h1>
@@ -19,9 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujan-ghosh-95411b241" height="30" width="40" /></a>
-<a href="https://kaggle.com/a60sujanghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="a60sujanghosh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sujanrupu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sujanrupu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sujan-ghosh-95411b241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujan-ghosh-95411b241" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sujanrupu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujanrupu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sujan3469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sujan3469" height="30" width="40" /></a>
 </p>
